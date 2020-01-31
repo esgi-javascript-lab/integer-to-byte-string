@@ -1,0 +1,10 @@
+*
+!test
+!.gitignore
+!babel.config.js
+!integerToByteString.js
+!LICENSE.md
+!nyc.config.js
+!package.json
+!package-lock.json
+!README.md
